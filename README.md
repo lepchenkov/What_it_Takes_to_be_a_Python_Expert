@@ -6,3 +6,5 @@ The most convinient way to read notebooks without cloning the whole repo is by u
 * [Generators](https://nbviewer.jupyter.org/github/lepchenkov/What_it_Takes_to_be_a_Python_Expert/blob/master/Generators.ipynb)
 * [Decorators](https://nbviewer.jupyter.org/github/lepchenkov/What_it_Takes_to_be_a_Python_Expert/blob/master/Decorators.ipynb)
 * [Context Managers]( Context_manager.ipynb)
+
+I personally find James Powell amazing. His lectures are crazy fun and this one in particular is incredibly useful. 
