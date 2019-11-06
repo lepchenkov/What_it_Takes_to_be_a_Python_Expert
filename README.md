@@ -5,4 +5,4 @@ The most convinient way to read notebooks without cloning the whole repo is by u
 * [Core concepts of Python](https://nbviewer.jupyter.org/github/lepchenkov/What_it_Takes_to_be_a_Python_Expert/blob/master/Protocol_View_of_Python_and_Metaclasses.ipynb)
 * [Generators](https://nbviewer.jupyter.org/github/lepchenkov/What_it_Takes_to_be_a_Python_Expert/blob/master/Generators.ipynb)
 * [Decorators](https://nbviewer.jupyter.org/github/lepchenkov/What_it_Takes_to_be_a_Python_Expert/blob/master/Decorators.ipynb)
-* [Context Managers](https://nbviewer.jupyter.org/github/lepchenkov/What_it_Takes_to_be_a_Python_Expert/blob/master/Decorators.ipynb)
+* [Context Managers]( Context_manager.ipynb)
